@@ -1,0 +1,11 @@
+{
+  "name": "Mon3",
+  "version": "0.0.0",
+  "description": "This is server for server 3",
+  "main": "Mon3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NgaNguyenDuy",
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Mon1",
+  "version": "0.0.0",
+  "description": "This is mon server 1",
+  "main": "mon1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NgaNguyenDuy",
+  "license": "MIT"
+}
